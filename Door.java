@@ -47,7 +47,7 @@ public class Door {
         //return -1;
     }  
     
-    
+    //Bees
     
     private boolean _isOpen = false;
     //useless
