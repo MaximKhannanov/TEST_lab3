@@ -50,7 +50,7 @@ public class Door {
     
     
     private boolean _isOpen = false;
-    
+    //useless
     public void open(){
         _isOpen = true;
     }
