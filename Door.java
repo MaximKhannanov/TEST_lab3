@@ -31,6 +31,7 @@ public class Door {
     }
     
  //nothing
+    // more nothing
     
     public  static final int VERTICAL = 1; 
     public  static final int HORIZONTAL = 2; 
